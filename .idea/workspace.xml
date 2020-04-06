@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a9c2145-8a30-4500-9da4-269883a3ed59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/PoemBeautifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/PoemDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/kodilla/testing/ExecuteFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/kodilla/testing/ExecuteFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/kodilla/testing/FunctionResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/kodilla/testing/result/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/kodilla/testing/result/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kodilla/testing/ExecuteFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/ExecuteFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kodilla/testing/FunctionResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kodilla/testing/result/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/result/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kodilla/testing/stream/People.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,25 +115,25 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="416" y="122" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.694@0.27.1366.694" timestamp="1585905230013" />
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1586200541345">
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1586207811301">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.27.1366.692@0.27.1366.692" timestamp="1586200541345" />
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.27.1366.692@0.27.1366.692" timestamp="1586207811301" />
     <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1586121612534" />
-    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1586200541345">
+    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1586207811300">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.center/0.27.1366.692@0.27.1366.692" timestamp="1586200541345" />
+    <state width="1320" height="174" key="GridCell.Tab.0.center/0.27.1366.692@0.27.1366.692" timestamp="1586207811300" />
     <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1586121612533" />
-    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1586200541344">
+    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1586207811300">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.left/0.27.1366.692@0.27.1366.692" timestamp="1586200541344" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left/0.27.1366.692@0.27.1366.692" timestamp="1586207811300" />
     <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1586121612533" />
-    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1586200541345">
+    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1586207811300">
       <screen x="0" y="27" width="1366" height="692" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.right/0.27.1366.692@0.27.1366.692" timestamp="1586200541345" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right/0.27.1366.692@0.27.1366.692" timestamp="1586207811300" />
     <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1586121612533" />
     <state x="278" y="109" width="516" height="438" key="Vcs.Push.Dialog.v2" timestamp="1586116494207">
       <screen x="0" y="27" width="1366" height="694" />
