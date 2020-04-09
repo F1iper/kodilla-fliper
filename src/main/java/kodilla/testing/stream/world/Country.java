@@ -4,8 +4,27 @@ import java.math.BigDecimal;
 
 public class Country {
 
-    BigDecimal getPeopleQuantity(){
-        BigDecimal number = new BigDecimal("");
-        return number;
+    private final String name;
+    private final BigDecimal numberOfPeople;
+
+    public Country(final String name, final BigDecimal numberOfPeople) {
+        this.name = name;
+        this.numberOfPeople = numberOfPeople;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public BigDecimal getNumberOfPeople() {
+        return numberOfPeople;
+    }
+
+    @Override
+    public String toString() {
+        return "Country{" +
+                "name='" + name + '\'' +
+                ", numberOfPeople=" + numberOfPeople +
+                '}';
     }
 }
