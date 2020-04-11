@@ -8,9 +8,11 @@ import org.junit.Test;
 import java.lang.reflect.Array;
 import java.time.LocalDate;
 import java.time.chrono.ChronoLocalDate;
+import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class BoardTestSuite {
     public Board prepareTestData() {
@@ -129,25 +131,23 @@ public class BoardTestSuite {
         Board project = prepareTestData();
 
         //When
-        List<TaskList> inProgressTasks = new ArrayList<>();
-        inProgressTasks.add(new TaskList("In progress"));
-        double average = project.getTaskLists().stream()
-                .filter(inProgressTasks::contains)
-                .flatMapToDouble(tl -> tl.getTasks().stream()
-                .map(t -> t.getDeadline()
-                        .compareTo((t.getCreated())))
-                .mapToDouble(n -> (double) n))
+        List<TaskList> inProgressTaskLists = new ArrayList<>();
+        inProgressTaskLists.add(new TaskList("In progress"));
+
+        double sumOfDaysBeforeNow = project.getTaskLists().stream()
+                .filter(inProgressTaskLists::contains)
+                .flatMap(t -> t.getTasks().stream())
+                .mapToDouble(t -> ChronoUnit.DAYS.between(t.getCreated(), LocalDate.now()))
+                .sum();
+        double averageDaysForProject = project.getTaskLists().stream()
+                .filter(inProgressTaskLists::contains)
+                .flatMap(t -> t.getTasks().stream())
+                .mapToDouble(t -> ChronoUnit.DAYS.between(t.getCreated(), LocalDate.now()))
                 .average().getAsDouble();
 
+
         //Then
-        Assert.assertEquals(31.2, average, 0.01);
-    }
-
-
-    public static void main(String[] args) {
-
-LocalDate today = LocalDate.now().minusDays(7);
-LocalDate deadline = today.plusDays(30);
-        System.out.println(deadline.compareTo(today));
+        Assert.assertEquals(30, sumOfDaysBeforeNow, 0.01);
+        Assert.assertEquals(10, averageDaysForProject, 0.01);
     }
 }
