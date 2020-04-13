@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="coding.bat.warmup.StringSamplesTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-12T14:04:07" hostname="LAPTOP-JD6MKD7N" time="0.0">
+  <properties/>
+  <testcase name="calculateCharsInString" classname="coding.bat.warmup.StringSamplesTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

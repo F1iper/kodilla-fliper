@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="kodilla.testing.stream.portfolio.BoardTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-11T17:17:43" hostname="LAPTOP-JD6MKD7N" time="0.043">
+<testsuite name="kodilla.testing.stream.portfolio.BoardTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-12T09:36:01" hostname="LAPTOP-JD6MKD7N" time="0.019">
   <properties/>
-  <testcase name="testAddTaskListAverageWorkingOnTask" classname="kodilla.testing.stream.portfolio.BoardTestSuite" time="0.043"/>
+  <testcase name="testAddTaskListAverageWorkingOnTask" classname="kodilla.testing.stream.portfolio.BoardTestSuite" time="0.019"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
