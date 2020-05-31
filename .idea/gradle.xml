@@ -10,9 +10,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/coding-bat" />
+            <option value="$PROJECT_DIR$/head-first" />
+            <option value="$PROJECT_DIR$/head-first-java" />
+            <option value="$PROJECT_DIR$/head.first.java" />
+            <option value="$PROJECT_DIR$/kodilla-food2door" />
+            <option value="$PROJECT_DIR$/kodilla-spring-testing" />
+            <option value="$PROJECT_DIR$/kodilla-training" />
+            <option value="$PROJECT_DIR$/new-gradle-build" />
+            <option value="$PROJECT_DIR$/object-oriented-lesson" />
+            <option value="$PROJECT_DIR$/this-is-test" />
           </set>
         </option>
-        <option name="useAutoImport" value="true" />
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
