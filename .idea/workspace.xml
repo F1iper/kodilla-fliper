@@ -2,102 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a9c2145-8a30-4500-9da4-269883a3ed59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/attempt/first/Rps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/attempt/first/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/hyperskill/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/javastart/carshop/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/javastart/carshop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/javastart/enums/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/javastart/enums/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/javastart/enums/MovieCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/javastart/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/kodilla/module13/GamerMissionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/src/main/java/random/exercises/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/src/main/java/head/first/methods/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/src/main/java/head/first/methods/Mix4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/src/main/java/head/first/methods/References.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/src/main/java/head/first/methods/SecretPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/src/main/java/head/first/methods/Vars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/head-first/src/main/java/head/first/methods/XCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/ExoticPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/GoodPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/IOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/IPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/config/AutoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-testing/src/main/java/spring/kurs/javasolutions/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/codeWars/First.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/bubblesort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/bubblesort/SortingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/enumeration/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/enumeration/Pizzeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/innerclasses/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/innerclasses/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/localclass/BiggestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/localclass/CompareNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/calculate/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/calculate/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/converter/ConvertLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/converter/ConvertTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/converter/ConvertTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-training/src/test/java/testing/Transactional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/methods/converter/ConvertTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/beginwithjava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/beginwithjava/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/beginwithjava/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/beginwithjava/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/loops/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/loops/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-practice/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-practice/src/main/java/kodilla/modules/patterns/singleton/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-practice/src/test/java/kodilla/modules/patterns/singleton/LoggerTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/kodilla-training.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/378f209c8202abe7d0463f4e096bd5610c8966d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62d6886e43ab0268827712e7e40386bdd12c91db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c729df1941d41a0bbe54b3c2a80f5608d03136d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbe9c9d4cb1cccf6fd4ec4fe344d790492b3b673" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/testrps/Rps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/warmup/Collections.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/classes/java/main/coding/bat/warmup/Collections.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/warmup/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/classes/java/main/coding/bat/warmup/Methods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/warmup/StringSamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/classes/java/main/coding/bat/warmup/StringSamples.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/warmup/WarmUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/classes/java/main/coding/bat/warmup/WarmUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/warmup/rockscissors/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/main/coding/bat/warmup/rockscissors/Window.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/classes/java/test/coding/bat/warmup/StringSamplesTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/classes/java/test/coding/bat/warmup/StringSamplesTestSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/reports/tests/test/classes/coding.bat.warmup.StringSamplesTestSuite.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/reports/tests/test/classes/coding.bat.warmup.StringSamplesTestSuite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/reports/tests/test/packages/coding.bat.warmup.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/reports/tests/test/packages/coding.bat.warmup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/test-results/test/TEST-coding.bat.warmup.StringSamplesTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/test-results/test/TEST-coding.bat.warmup.StringSamplesTestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/testrps/Rps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/warmup/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/warmup/Collections.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/warmup/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/warmup/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/warmup/StringSamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/warmup/StringSamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/warmup/WarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/warmup/WarmUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/warmup/rockscissors/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/main/java/coding/bat/rps/Rps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/main/java/coding/bat/warmup/rockscissors/Window.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/test/java/coding/bat/rockscissors/UserTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/test/java/coding/bat/rockscissors/UserTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding-bat/src/test/java/coding/bat/warmup/StringSamplesTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/src/test/java/coding/bat/warmup/StringSamplesTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/codewars-training/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/codeWars/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/banking/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/banking/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/banking/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/banking/Credit.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/Credit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/banking/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/bubblesort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/bubblesort/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/bubblesort/SortingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/bubblesort/SortingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/enumeration/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/enumeration/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/enumeration/Pizzeria.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/enumeration/Pizzeria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/innerclasses/Car$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/innerclasses/Car$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/innerclasses/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/innerclasses/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/innerclasses/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/innerclasses/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/localclass/BiggestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/localclass/BiggestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/localclass/CompareNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/localclass/CompareNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/methods/calculate/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/methods/calculate/Calculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/methods/calculate/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/methods/calculate/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/methods/converter/ConvertLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/methods/converter/ConvertLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/methods/converter/ConvertTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/build/classes/java/main/javastart/methods/converter/ConvertTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/methods/converter/ConvertTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/codeWars/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/banking/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/banking/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/banking/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Credit.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/banking/Credit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/banking/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/banking/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/bubblesort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/bubblesort/SortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/bubblesort/SortingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/enumeration/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/enumeration/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/enumeration/Pizzeria.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/enumeration/Pizzeria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/innerclasses/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/innerclasses/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/innerclasses/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/innerclasses/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/localclass/BiggestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/localclass/BiggestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/localclass/CompareNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/localclass/CompareNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/calculate/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods/calculate/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/calculate/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods/calculate/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/converter/ConvertLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods/converter/ConvertLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/converter/ConvertTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods/converter/ConvertTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/main/java/javastart/methods/converter/ConvertTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods/converter/ConvertTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-training/src/test/java/testing/Transactional.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/test/java/testing/Transactional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,6 +158,7 @@
       <recent name="kodilla.testing.stream.earth" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="kodilla.testing.stream.portfolio" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -194,13 +172,13 @@
       <recent name="com.kodilla.good.patterns.challenges" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertTest">
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.methods.calculate.Calculate" />
-      <module name="kodilla-fliper.kodilla-training.main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginwithjava.Main" />
+      <module name="kodilla-fliper.javastart-training.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastart.methods.calculate.*" />
+          <option name="PATTERN" value="beginwithjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.localclass.CompareNumbers" />
-      <module name="kodilla-fliper.kodilla-training.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastart.loops.Main" />
+      <module name="kodilla-fliper.javastart-training.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastart.localclass.*" />
+          <option name="PATTERN" value="javastart.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.methods.converter.ConvertTest" />
-      <module name="kodilla-fliper.kodilla-training.main" />
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beginwithjava.Question1" />
+      <module name="kodilla-fliper.javastart-training.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastart.methods.converter.*" />
+          <option name="PATTERN" value="beginwithjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,39 +212,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.bubblesort.SortingTest" />
-      <module name="kodilla-fliper.kodilla-training.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javastart.bubblesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="LoggerTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kodilla.modules.patterns.singleton.LoggerTestSuite&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-practice:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.methods.Test" />
-      <module name="kodilla-fliper.kodilla-training.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javastart.methods.calculate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="LoggerTestSuite.testCreateLog" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kodilla.modules.patterns.singleton.LoggerTestSuite.testCreateLog&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-practice:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertTest" />
-        <item itemvalue="Application.Calculate" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SortingTest" />
-        <item itemvalue="Application.CompareNumbers" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.LoggerTestSuite.testCreateLog" />
+        <item itemvalue="Gradle.LoggerTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +306,9 @@
       <workItem from="1590850805932" duration="3702000" />
       <workItem from="1590867404946" duration="44000" />
       <workItem from="1590924244034" duration="13228000" />
+      <workItem from="1591009709633" duration="5478000" />
+      <workItem from="1591031360206" duration="625000" />
+      <workItem from="1591360334602" duration="5086000" />
     </task>
     <servers />
   </component>
@@ -338,15 +331,15 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="232" y="344" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1587214163472" />
-    <state x="313" y="48" width="700" height="526" key="#Project_Structure" timestamp="1589477528698">
-      <screen x="0" y="40" width="1536" height="824" />
+    <state x="521" y="54" width="700" height="526" key="#Project_Structure" timestamp="1591010442346">
+      <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="521" y="14" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1586700076804" />
     <state x="278" y="34" key="#Project_Structure/0.27.1366.692@0.27.1366.692" timestamp="1586289303621" />
     <state x="278" y="34" width="847" height="677" key="#Project_Structure/0.27.1366.694@0.27.1366.694" timestamp="1585905249109" />
     <state x="313" y="48" width="700" height="526" key="#Project_Structure/0.40.1536.824@0.40.1536.824" timestamp="1589477528698" />
-    <state x="521" y="54" key="#Project_Structure/0.40.2560.1400@0.40.2560.1400" timestamp="1589373392193" />
-    <state x="920" y="172" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1590925552084">
+    <state x="521" y="54" key="#Project_Structure/0.40.2560.1400@0.40.2560.1400" timestamp="1591010442346" />
+    <state x="920" y="172" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1591016132202">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="552" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-2560.-348.2560.1400@0.0.1536.824" timestamp="1587554797725" />
@@ -354,11 +347,23 @@
     <state x="491" y="92" width="544" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1366.692@0.27.1366.692" timestamp="1586294093794" />
     <state x="491" y="92" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.694@0.27.1366.694" timestamp="1586115912494" />
     <state x="552" y="118" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1590852309894" />
-    <state x="920" y="172" key="#com.intellij.ide.util.MemberChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1590925552084" />
+    <state x="920" y="172" key="#com.intellij.ide.util.MemberChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1591016132202" />
+    <state x="909" y="429" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591010394790">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="909" y="429" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1591010394790" />
+    <state x="252" y="664" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591363518378">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="252" y="664" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1591363518378" />
     <state x="1633" y="563" width="518" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586608586026">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1633" y="563" width="518" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1586608586026" />
+    <state x="363" y="621" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591363520755">
+      <screen x="0" y="40" width="2560" height="1400" />
+    </state>
+    <state x="363" y="621" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.40.2560.1400@0.40.2560.1400" timestamp="1591363520755" />
     <state x="909" y="40" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1589808832910">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -369,7 +374,7 @@
     </state>
     <state x="416" y="122" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.694@0.27.1366.694" timestamp="1585905230013" />
     <state x="780" y="232" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1589376234639" />
-    <state width="1150" height="328" key="GridCell.Tab.0.bottom" timestamp="1590939843360">
+    <state width="1242" height="326" key="GridCell.Tab.0.bottom" timestamp="1591365365937">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1907" height="354" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525636" />
@@ -379,8 +384,8 @@
     <state width="1320" height="139" key="GridCell.Tab.0.bottom/0.27.1366.692@0.27.1366.692" timestamp="1586294893136" />
     <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1586121612534" />
     <state width="978" height="169" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1590853077975" />
-    <state width="1150" height="328" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1590939843360" />
-    <state width="1150" height="328" key="GridCell.Tab.0.center" timestamp="1590939843360">
+    <state width="1242" height="326" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1591365365937" />
+    <state width="1242" height="326" key="GridCell.Tab.0.center" timestamp="1591365365936">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1907" height="354" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525636" />
@@ -390,8 +395,8 @@
     <state width="1320" height="139" key="GridCell.Tab.0.center/0.27.1366.692@0.27.1366.692" timestamp="1586294893135" />
     <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1586121612533" />
     <state width="978" height="169" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1590853077975" />
-    <state width="1150" height="328" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1590939843360" />
-    <state width="1150" height="328" key="GridCell.Tab.0.left" timestamp="1590939843360">
+    <state width="1242" height="326" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1591365365936" />
+    <state width="1242" height="326" key="GridCell.Tab.0.left" timestamp="1591365365936">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1907" height="354" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525635" />
@@ -401,8 +406,8 @@
     <state width="1320" height="139" key="GridCell.Tab.0.left/0.27.1366.692@0.27.1366.692" timestamp="1586294893134" />
     <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1586121612533" />
     <state width="978" height="169" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1590853077975" />
-    <state width="1150" height="328" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1590939843360" />
-    <state width="1150" height="328" key="GridCell.Tab.0.right" timestamp="1590939843360">
+    <state width="1242" height="326" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1591365365936" />
+    <state width="1242" height="326" key="GridCell.Tab.0.right" timestamp="1591365365936">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1907" height="354" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525636" />
@@ -412,31 +417,31 @@
     <state width="1320" height="139" key="GridCell.Tab.0.right/0.27.1366.692@0.27.1366.692" timestamp="1586294893136" />
     <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1586121612533" />
     <state width="978" height="169" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1590853077975" />
-    <state width="1150" height="328" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1590939843360" />
-    <state width="1150" height="490" key="GridCell.Tab.1.bottom" timestamp="1590934796055">
+    <state width="1242" height="326" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1591365365936" />
+    <state width="1242" height="487" key="GridCell.Tab.1.bottom" timestamp="1591363613009">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586626590103" />
     <state width="1320" height="139" key="GridCell.Tab.1.bottom/0.27.1366.692@0.27.1366.692" timestamp="1586294893139" />
-    <state width="1150" height="490" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1590934796055" />
-    <state width="1150" height="490" key="GridCell.Tab.1.center" timestamp="1590934796055">
+    <state width="1242" height="487" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1591363613009" />
+    <state width="1242" height="487" key="GridCell.Tab.1.center" timestamp="1591363613009">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586626590103" />
     <state width="1320" height="139" key="GridCell.Tab.1.center/0.27.1366.692@0.27.1366.692" timestamp="1586294893138" />
-    <state width="1150" height="490" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1590934796055" />
-    <state width="1150" height="490" key="GridCell.Tab.1.left" timestamp="1590934796055">
+    <state width="1242" height="487" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1591363613009" />
+    <state width="1242" height="487" key="GridCell.Tab.1.left" timestamp="1591363613009">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586626590103" />
     <state width="1320" height="139" key="GridCell.Tab.1.left/0.27.1366.692@0.27.1366.692" timestamp="1586294893137" />
-    <state width="1150" height="490" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1590934796055" />
-    <state width="1150" height="490" key="GridCell.Tab.1.right" timestamp="1590934796055">
+    <state width="1242" height="487" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1591363613009" />
+    <state width="1242" height="487" key="GridCell.Tab.1.right" timestamp="1591363613009">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586626590103" />
     <state width="1320" height="139" key="GridCell.Tab.1.right/0.27.1366.692@0.27.1366.692" timestamp="1586294893139" />
-    <state width="1150" height="490" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1590934796055" />
+    <state width="1242" height="487" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1591363613009" />
     <state x="1339" y="382" key="SettingsEditor" timestamp="1590491199126">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
@@ -479,12 +484,12 @@
     </state>
     <state x="222" y="313" key="extract.method.dialog/0.40.1536.824@0.40.1536.824" timestamp="1590853284825" />
     <state x="370" y="504" key="extract.method.dialog/0.40.2560.1400@0.40.2560.1400" timestamp="1590937653127" />
-    <state x="-78" y="155" key="new project wizard" timestamp="1589989214617">
+    <state x="672" y="360" key="new project wizard" timestamp="1591010419637">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="672" y="312" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1586684033087" />
     <state x="365" y="86" key="new project wizard/0.40.1536.824@0.40.1536.824" timestamp="1589539835014" />
-    <state x="-78" y="155" key="new project wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1589989214617" />
+    <state x="672" y="360" key="new project wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1591010419637" />
     <state x="347" y="163" key="run.anything.popup" timestamp="1586197363236">
       <screen x="0" y="27" width="1366" height="692" />
     </state>

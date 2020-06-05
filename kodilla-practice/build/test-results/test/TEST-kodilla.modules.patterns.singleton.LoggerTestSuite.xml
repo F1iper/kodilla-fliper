@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="kodilla.modules.patterns.singleton.LoggerTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-01T12:55:38" hostname="F1iper-F1iper" time="0.001">
+  <properties/>
+  <testcase name="testCreateLog" classname="kodilla.modules.patterns.singleton.LoggerTestSuite" time="0.001"/>
+  <system-out><![CDATA[Log: [log 1]
+Log: [log 2]
+Logger{lastLog=''}
+
+save logs
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

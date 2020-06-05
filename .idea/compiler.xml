@@ -6,6 +6,8 @@
       <module name="kodilla-fliper.head-first-java.test" target="11" />
       <module name="kodilla-fliper.head.first.java.main" target="11" />
       <module name="kodilla-fliper.head.first.java.test" target="11" />
+      <module name="kodilla-fliper.kodilla-training.main" target="11" />
+      <module name="kodilla-fliper.kodilla-training.test" target="11" />
       <module name="kodilla-fliper.new-gradle-build.main" target="11" />
       <module name="kodilla-fliper.new-gradle-build.test" target="11" />
       <module name="kodilla-fliper.this-is-test.main" target="11" />
