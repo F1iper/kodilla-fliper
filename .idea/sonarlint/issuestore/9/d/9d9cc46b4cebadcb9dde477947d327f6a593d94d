@@ -1,0 +1,5 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÉÇ™Ôùÿÿÿÿ8¹ºÁ¥¨.
+ˆ
+java:S1130"kRemove the declaration of thrown exception 'java.util.InputMismatchException' which is a runtime exception.(‚¹þú8 ÌŸ¦¨.
