@@ -1,7 +1,7 @@
 
-c
-java:S1854"ARemove this useless assignment to local variable "sumOfDivisors".(ÔÒ•¶øÿÿÿÿ8¥þî£¨.
 ]	java:S125"<This block of commented-out lines of code should be removed.(»áúÃüÿÿÿÿ8„Èü¤¨.
 X	java:S125"<This block of commented-out lines of code should be removed.(§Ë„±8á„ü¤¨.
+c
+java:S1854"ARemove this useless assignment to local variable "sumOfDivisors".(ÔÒ•¶øÿÿÿÿ8¥þî£¨.
 T
 java:S1481"2Remove this unused "sumOfDivisors" local variable.(ÔÒ•¶øÿÿÿÿ8¥þî£¨.

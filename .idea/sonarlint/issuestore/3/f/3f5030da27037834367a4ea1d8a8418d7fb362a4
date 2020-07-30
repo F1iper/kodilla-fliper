@@ -1,4 +1,4 @@
 
-W	java:S125"<This block of commented-out lines of code should be removed.( Õõ8»èÔÓ¨.
 b
 java:S2095)"EUse try-with-resources or close this "Scanner" in a "finally" clause.(…Àöš8Š¹çÓ¨.
+W	java:S125"<This block of commented-out lines of code should be removed.( Õõ8»èÔÓ¨.
