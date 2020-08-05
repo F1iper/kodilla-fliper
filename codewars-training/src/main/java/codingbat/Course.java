@@ -1,5 +1,6 @@
+package codingbat;
+
 import java.util.Objects;
-import java.util.stream.Stream;
 
 class Course {
     private Long id;
@@ -48,7 +49,7 @@ class Course {
 
     @Override
     public String toString() {
-        return "Course{" +
+        return "codingbat.Course{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", price=" + price +

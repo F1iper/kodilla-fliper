@@ -1,64 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7a9c2145-8a30-4500-9da4-269883a3ed59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/codewars-training/src/main/java/CodingBat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars-training/src/main/java/CodingBat2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars-training/src/main/java/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/from0/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/arrays/ArraysUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/arrays/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/arrays/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/arrays/MultiDimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/map/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/map/NotebookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/mapexercise/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/mapexercise/CompanyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/mapexercise/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/loops/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods2/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods2/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods2/ComputerStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/methods2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/stream/BoardGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/stream/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/stream/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/stream/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastart-training/src/test/java/javastart/stream/ShopTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samouczek-programisty/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samouczek-programisty/src/main/java/collections/Lesson1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars-training/src/main/java/constructor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars-training/src/main/java/kata/FakeBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/exercise308/ArraysExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/exercise308/DatabaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/exercise308/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javastart-training/src/main/java/exercise308/PersonDatabase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05da7662460b1f81f45ae8264f606393f49e70a8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05da7662460b1f81f45ae8264f606393f49e70a8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5030da27037834367a4ea1d8a8418d7fb362a4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5030da27037834367a4ea1d8a8418d7fb362a4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43996f490c297c10a9f74e5cd40a084feab76103" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cbc4076b342b36c7fd955c14ab97eae5b7d745d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f8ab58676ba5badc93fd412a86f40f232eae0fa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95f890cbc395bafca80aea28178e761f62ee3fbc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9d75e6aceb1beb095742f4fe339e50da125a681" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9d75e6aceb1beb095742f4fe339e50da125a681" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1213ecefa36a618423f826d183de78ce3301a39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/head-first.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/samouczek-programisty.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3db743ba0eb0982ce2e2059aba51946896c88ae" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/collections/Notebook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/collections/NotebookStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/localclass/CompareNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/localclass/CompareNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/Notebook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/collections/NotebookStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/localclass/CompareNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/src/main/java/javastart/localclass/CompareNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javastart-training/src/test/java/testing/Transactional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars-training/build/classes/java/main/CodingBat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars-training/build/classes/java/main/CodingBat2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars-training/build/classes/java/main/Course.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars-training/src/main/java/CodingBat.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars-training/src/main/java/codingbat/CodingBat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars-training/src/main/java/CodingBat2.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars-training/src/main/java/codingbat/CodingBat2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars-training/src/main/java/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/codewars-training/src/main/java/codingbat/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/banking/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/collections/mapexercise/CompanyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/javastart-training/build/classes/java/main/javastart/collections/mapexercise/CompanyApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,20 +131,39 @@
       <recent name="javastart.banking" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson1">
-    <configuration name="CodingBat2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingBat2" />
+  <component name="RunManager" selected="Application.CodingBat">
+    <configuration name="ArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise308.ArraysExample" />
+      <module name="kodilla-fliper.javastart-training.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise308.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodingBat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingbat.CodingBat" />
       <module name="kodilla-fliper.codewars-training.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingbat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.methods2.ComputerStore" />
+    <configuration name="DatabaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise308.DatabaseTest" />
       <module name="kodilla-fliper.javastart-training.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastart.methods2.*" />
+          <option name="PATTERN" value="exercise308.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Lesson1" />
-      <module name="kodilla-fliper.samouczek-programisty.main" />
+    <configuration name="FakeBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kata.FakeBinary" />
+      <module name="kodilla-fliper.codewars-training.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="kata.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.methods2.Main" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise308.Person" />
       <module name="kodilla-fliper.javastart-training.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javastart.methods2.*" />
+          <option name="PATTERN" value="exercise308.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,29 +197,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javastart.methods2.Test" />
-      <module name="kodilla-fliper.javastart-training.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javastart.methods2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson1" />
-        <item itemvalue="Application.CodingBat2" />
-        <item itemvalue="Application.ComputerStore" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CodingBat" />
+        <item itemvalue="Application.FakeBinary" />
+        <item itemvalue="Application.DatabaseTest" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.ArraysExample" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -288,11 +281,17 @@
       <workItem from="1596032994463" duration="709000" />
       <workItem from="1596034037238" duration="9645000" />
       <workItem from="1596107344777" duration="4407000" />
+      <workItem from="1596135783931" duration="712000" />
+      <workItem from="1596450923007" duration="7109000" />
+      <workItem from="1596462610046" duration="3096000" />
+      <workItem from="1596548193666" duration="7949000" />
+      <workItem from="1596616235979" duration="542000" />
+      <workItem from="1596624939508" duration="1572000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -316,11 +315,11 @@
     </state>
     <state x="313" y="48" width="700" height="526" key="#Project_Structure/0.40.1536.824@0.40.1536.824" timestamp="1589477528698" />
     <state x="521" y="54" key="#Project_Structure/0.40.2560.1400@0.40.2560.1400" timestamp="1591010442346" />
-    <state x="552" y="118" width="544" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1591899175163">
-      <screen x="0" y="40" width="1536" height="824" />
+    <state x="491" y="93" width="565" height="576" key="#com.intellij.ide.util.MemberChooser" timestamp="1596460594918">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state x="552" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-2560.-348.2560.1400@0.0.1536.824" timestamp="1587554797725" />
     <state x="920" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1588242747197" />
+    <state x="491" y="93" width="565" height="576" key="#com.intellij.ide.util.MemberChooser/0.27.1366.697@0.27.1366.697" timestamp="1596460594918" />
     <state x="552" y="118" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1591899175163" />
     <state x="920" y="172" key="#com.intellij.ide.util.MemberChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1591708441840" />
     <state x="909" y="429" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591010394790">
@@ -347,61 +346,58 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="780" y="232" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1589376234639" />
-    <state width="1234" height="413" key="GridCell.Tab.0.bottom" timestamp="1596115538426">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom" timestamp="1596626620924">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1907" height="354" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525636" />
-    <state width="1493" height="354" key="GridCell.Tab.0.bottom/0.0.1536.824/-2560.-348.2560.1400@0.0.1536.824" timestamp="1587555892053" />
     <state width="1493" height="353" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588622613429" />
-    <state width="2517" height="657" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1587825136001" />
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.27.1366.697@0.27.1366.697" timestamp="1596626620924" />
     <state width="1493" height="219" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1591904837775" />
     <state width="1234" height="413" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1596115538426" />
-    <state width="1234" height="413" key="GridCell.Tab.0.center" timestamp="1596115538426">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="173" key="GridCell.Tab.0.center" timestamp="1596626620922">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1907" height="354" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525636" />
-    <state width="1493" height="354" key="GridCell.Tab.0.center/0.0.1536.824/-2560.-348.2560.1400@0.0.1536.824" timestamp="1587555892053" />
     <state width="1493" height="353" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588622613429" />
-    <state width="2517" height="657" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1587825136001" />
+    <state width="1320" height="173" key="GridCell.Tab.0.center/0.27.1366.697@0.27.1366.697" timestamp="1596626620922" />
     <state width="1493" height="219" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1591904837775" />
     <state width="1234" height="413" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1596115538426" />
-    <state width="1234" height="413" key="GridCell.Tab.0.left" timestamp="1596115538426">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="173" key="GridCell.Tab.0.left" timestamp="1596626620922">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1907" height="354" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525635" />
-    <state width="1493" height="354" key="GridCell.Tab.0.left/0.0.1536.824/-2560.-348.2560.1400@0.0.1536.824" timestamp="1587555892053" />
     <state width="1493" height="353" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588622613428" />
-    <state width="2517" height="657" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1587825136001" />
+    <state width="1320" height="173" key="GridCell.Tab.0.left/0.27.1366.697@0.27.1366.697" timestamp="1596626620922" />
     <state width="1493" height="219" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1591904837775" />
     <state width="1234" height="413" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1596115538426" />
-    <state width="1234" height="413" key="GridCell.Tab.0.right" timestamp="1596115538426">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="173" key="GridCell.Tab.0.right" timestamp="1596626620923">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
-    <state width="1907" height="354" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-348.2560.1400@-2560.-348.2560.1400" timestamp="1587552525636" />
-    <state width="1493" height="354" key="GridCell.Tab.0.right/0.0.1536.824/-2560.-348.2560.1400@0.0.1536.824" timestamp="1587555892053" />
     <state width="1493" height="353" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588622613429" />
-    <state width="2517" height="657" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1587825136001" />
+    <state width="1320" height="173" key="GridCell.Tab.0.right/0.27.1366.697@0.27.1366.697" timestamp="1596626620923" />
     <state width="1493" height="219" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1591904837775" />
     <state width="1234" height="413" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1596115538426" />
-    <state width="1234" height="236" key="GridCell.Tab.1.bottom" timestamp="1591713420149">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="198" key="GridCell.Tab.1.bottom" timestamp="1596556606773">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
+    <state width="1320" height="198" key="GridCell.Tab.1.bottom/0.27.1366.697@0.27.1366.697" timestamp="1596556606773" />
     <state width="1234" height="236" key="GridCell.Tab.1.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1591713420149" />
-    <state width="1234" height="236" key="GridCell.Tab.1.center" timestamp="1591713420149">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="198" key="GridCell.Tab.1.center" timestamp="1596556606773">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
+    <state width="1320" height="198" key="GridCell.Tab.1.center/0.27.1366.697@0.27.1366.697" timestamp="1596556606772" />
     <state width="1234" height="236" key="GridCell.Tab.1.center/0.40.2560.1400@0.40.2560.1400" timestamp="1591713420149" />
-    <state width="1234" height="236" key="GridCell.Tab.1.left" timestamp="1591713420149">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="198" key="GridCell.Tab.1.left" timestamp="1596556606772">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
+    <state width="1320" height="198" key="GridCell.Tab.1.left/0.27.1366.697@0.27.1366.697" timestamp="1596556606772" />
     <state width="1234" height="236" key="GridCell.Tab.1.left/0.40.2560.1400@0.40.2560.1400" timestamp="1591713420149" />
-    <state width="1234" height="236" key="GridCell.Tab.1.right" timestamp="1591713420149">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state width="1320" height="198" key="GridCell.Tab.1.right" timestamp="1596556606773">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
+    <state width="1320" height="198" key="GridCell.Tab.1.right/0.27.1366.697@0.27.1366.697" timestamp="1596556606773" />
     <state width="1234" height="236" key="GridCell.Tab.1.right/0.40.2560.1400@0.40.2560.1400" timestamp="1591713420149" />
-    <state x="1339" y="382" key="SettingsEditor" timestamp="1590491199126">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state x="145" y="27" width="1012" height="697" key="SettingsEditor" timestamp="1596616343252">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
+    <state x="145" y="27" width="1012" height="697" key="SettingsEditor/0.27.1366.697@0.27.1366.697" timestamp="1596616343252" />
     <state x="1339" y="382" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1590491199126" />
     <state x="668" y="588" width="430" height="311" key="cloudConfig.SelfSettingsDialog" timestamp="1589548395836">
       <screen x="0" y="40" width="2560" height="1400" />
@@ -412,9 +408,10 @@
     </state>
     <state x="1048" y="242" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.1536.824@0.40.1536.824" timestamp="1590852135797" />
     <state x="1747" y="411" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.40.2560.1400@0.40.2560.1400" timestamp="1589729253564" />
-    <state x="450" y="657" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591532027980">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state x="240" y="334" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596135991165">
+      <screen x="0" y="27" width="1366" height="697" />
     </state>
+    <state x="240" y="334" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.697@0.27.1366.697" timestamp="1596135991165" />
     <state x="450" y="657" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.2560.1400@0.40.2560.1400" timestamp="1591532027980" />
     <state x="370" y="504" key="extract.method.dialog" timestamp="1590937653127">
       <screen x="0" y="40" width="2560" height="1400" />

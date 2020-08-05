@@ -42,11 +42,11 @@ e
 f
 6head-first/src/main/java/head/first/methods/XCopy.java,7\8\78fc96de44769918524c7905688b8d7d2b871413
 N
-codewars-training/build.gradle,1\1\116a408f1fdb9b20f466b59f2ea65f9d6468d7ab
+codewars-training/build.gradle,1/1/116a408f1fdb9b20f466b59f2ea65f9d6468d7ab
 l
 <javastart-training/src/main/java/javastart/banking/Bank.java,2\b\2be5b4a6e24756dcf568c276397f60ff39fdd6ed
 ?
-settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 M
 kodilla-practice/build.gradle,d\c\dcb89712790223879e1212c6dd3931b87423e617
 †
@@ -129,5 +129,11 @@ v
 Fjavastart-training/src/main/java/javastart/methods2/ComputerStore.java,d\f\df1d3c13a580ebd089eadf7bbc1c70b3a18f44ab
 w
 Gjavastart-training/src/main/java/javastart/arrays/MultiDimensional.java,d\4\d4cd353d1ad11389e40926e950ec4ad926e0aa50
-^
-.codewars-training/src/main/java/CodingBat.java,e\3\e3db743ba0eb0982ce2e2059aba51946896c88ae
+<
+build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
+7
+gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
+;
+gradlew.bat,2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3
+l
+<samouczek-programisty/src/main/java/collections/Lesson1.java,c/c/cca4703dfcef9bcef51e6765753ddb9044fcbb4d

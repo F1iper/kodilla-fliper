@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/head-first.iml" filepath="$PROJECT_DIR$/.idea/modules/head-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/head.first.java/kodilla-fliper.head.first.java.main.iml" filepath="$PROJECT_DIR$/.idea/modules/head.first.java/kodilla-fliper.head.first.java.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/head.first.java/kodilla-fliper.head.first.java.test.iml" filepath="$PROJECT_DIR$/.idea/modules/head.first.java/kodilla-fliper.head.first.java.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/samouczek-programisty.iml" filepath="$PROJECT_DIR$/.idea/modules/samouczek-programisty.iml" />
     </modules>
   </component>
 </project>
